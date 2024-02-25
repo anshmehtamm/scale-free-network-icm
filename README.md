@@ -1,5 +1,4 @@
-# scale-free-network-icm
-Information Cascade Model on Scale Free Networks using NetLogo
+# Information Cascade Model on Scale Free Networks using NetLogo
 
 This repository is part of Social Network Project under Dr. Sakthi Balan Muthaiah (LNMIIT), dated: May 2020
 
